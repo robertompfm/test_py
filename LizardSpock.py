@@ -49,6 +49,6 @@ def main():
     else:
         print("Ivalid value! Your value must be between 1 and 100. Try again: ")
         main()
-        print("Meu grupo é uma batata")
+        print("Meu grupo é uma batata doce")
 
 main()
