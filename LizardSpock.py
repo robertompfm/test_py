@@ -52,4 +52,3 @@ def main():
         print("Meu grupo é uma batata doce")
 
 main()
-print('shablau')
